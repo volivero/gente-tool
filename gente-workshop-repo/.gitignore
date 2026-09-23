@@ -1,0 +1,12 @@
+# private material — never commit
+*participants*
+*inscritos*
+*Infokit*
+*Heliyon*
+*HELIYOND*
+Entregable*
+*.docx
+correspondence/
+# system
+.DS_Store
+Thumbs.db
